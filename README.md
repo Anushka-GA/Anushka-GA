@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anushka-GArg
 - 👀 I’m interested in .exploring and learning things ..
+- [![Anushka-GA's GitHub | Stats](https://stats.quine.sh/Anushka-GA/github?theme=dark)](https://quine.sh)
 - 🌱 I’m currently learning ..java and python.
 - 💞️ I’m looking to collaborate on ..python based projects .
 - 📫 How to reach me ..anushka.garg1812@gmail.com.
