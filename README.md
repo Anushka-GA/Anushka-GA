@@ -7,4 +7,5 @@
 <!---
 Anushka-GA/Anushka-GA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![Anushka-GA's GitHub | Stats](https://stats.quine.sh/Anushka-GA/github?theme=light)](https://quine.sh)
 --->
